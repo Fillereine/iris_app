@@ -46,7 +46,7 @@ def predict(data):
 
 
 
-st.markdown("<h1 style='text-align: center;'>PREDICTION DU TYPE DE FLEUR D'IRIS</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>PREDICTION DE LA FLEUR IRIS</h1>", unsafe_allow_html=True)
 
 col1, col2 = st.columns(2)
 
