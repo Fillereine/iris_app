@@ -82,4 +82,4 @@ if st.button("Prédire la fleur...", help="Cliquez pour envoyer les données", t
     #model, sca = load_model()
     
     # Afficher la réponse de l'API
-    st.write("<p style='font-size: 20px; font-weight: bold;'>Votre fleur semble être : <span style='color: #ff4b4b;'>", response , "</span></p>", unsafe_allow_html=True)
+    st.write("<p style='font-size: 25px; font-weight: bold;'>Votre fleur semble être : <span style='color: #0000FF;'>", response , "</span></p>", unsafe_allow_html=True)
